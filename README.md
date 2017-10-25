@@ -1,9 +1,10 @@
 # internship
 
 ## Company
-Fenrir Game Studio
-http://fenrirgamestudio.dk
-Naverland 2, 2600 Glostrup, Denmark
+
+Fenrir Game Studio  
+http://fenrirgamestudio.dk  
+Naverland 2, 2600 Glostrup, Denmark  
 
 ### Fields
 * Game Development
