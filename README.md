@@ -1,7 +1,7 @@
 # internship
 
 ## Company
-![](Fenrir_Logo_blue.png)
+![](Fenrir_Logo_blue.png)  
 Fenrir Game Studio  
 http://fenrirgamestudio.dk  
 Naverland 2, 2600 Glostrup, Denmark  
@@ -17,5 +17,5 @@ Naverland 2, 2600 Glostrup, Denmark
 * Concept Ideation
 
 ## Learning Objectives
-These are the learning objectives I had for my internship:
+These are the learning objectives I had for my internship:  
 ![](vennmodel.PNG)
