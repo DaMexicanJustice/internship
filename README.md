@@ -36,8 +36,10 @@ I did the:
 * HTML
 * CSS
 * PHP
-* JavaScript  
+* JavaScript
+
 I did not do the:  
+
 * Graphical assets
 * Text  
 ### In-house game project
