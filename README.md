@@ -41,8 +41,22 @@ I did not do the:
 * Graphical assets
 * Text  
 ### In-house game project
-
+These are examples of some systems I worked with:  
+* Inventory
+* Frameworks
+* Talents/Skills
+* Grappling hook (2D vs 3D)
+* Interactive objects
+* Structures
+* Blueprint combination and storage
 ### Third party game project
-### VEU-spillet
+Because of a NDA I am not allowed to specify details about this project, suffice it to state I worked on systems such as:
+* Input controls
 
+  * Mobile
+  * PC
+* Interactive buildings
+### VEU-spillet
+Very little involvement. The sign-up page for new users is a HTML document, so I helped style that.  
+Checkout the result here: http://veu-spillet.dk/Invitation/index.html
 ## Learning Outcome
