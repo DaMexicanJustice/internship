@@ -66,8 +66,8 @@ Let's see how well the things I worked with fits into the boxes: web, Unity, agi
 ![](learning_objectives.PNG)
 
 ## Conclusion
-´´´
+```ruby
 public int CalculateSatisfaction(Internship FenrirGameStudio) {
    return Intern.instance.GetSatisfactionByCompany(FenrirGameStudio);
 }
-´´´
+```
