@@ -6,6 +6,7 @@ Table of contents
 * Learning Objectives
 * Portfolio
 * Learning Outcome
+* Conclusion
 
 ## Company
 ![](Fenrir_Logo_blue.png)  
