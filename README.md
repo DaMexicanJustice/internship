@@ -17,3 +17,4 @@ Naverland 2, 2600 Glostrup, Denmark
 * Concept Ideation
 
 ## Learning Objectives
+![](venn mode.png)
