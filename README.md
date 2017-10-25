@@ -17,4 +17,5 @@ Naverland 2, 2600 Glostrup, Denmark
 * Concept Ideation
 
 ## Learning Objectives
-![](vennmodel.png)
+These are the learning objectives I had for my internship:
+![](vennmodel.PNG)
