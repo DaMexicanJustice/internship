@@ -28,17 +28,18 @@ These are the learning objectives I had for my internship:
 ![](vennmodel.PNG)
 
 ## Portfolio
-This is a showcase of some of the work I did for Fenrir Game Studio. All of the work could be divided to one of the following categories with few exceptions.
+This is a showcase of some of the work I did for Fenrir Game Studio. All of the work can be divided into one of the following categories with a few exceptions.
 ### Website
-I was tasked with developing their new website. It is online here: http://fenrirgamestudio.dk  
+I was tasked with developing their new website. It is online here: http://fenrirgamestudio.dk 
+
 I did the:
 * HTML
 * CSS
 * PHP
-* JavaScript
+* JavaScript  
 I did not do the:  
 * Graphical assets
-* Text
+* Text  
 ### In-house game project
 
 ### Third party game project
