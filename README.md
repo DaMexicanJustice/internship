@@ -74,5 +74,6 @@ public int CalculateSatisfaction(Internship atCompany) {
 }
 Internship atFenrirGameStudio = new Internship("Fenrir Game Studio", 2017);
 int satisfaction = CalculateSatisfaction(atFenrirGameStudio);
+Debug.Log(satisfaction);
 ```
 ![](screenshot.PNG)
