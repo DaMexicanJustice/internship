@@ -32,13 +32,13 @@ This is a showcase of some of the work I did for Fenrir Game Studio. All of the 
 ### Website
 I was tasked with developing their new website. It is online here: http://fenrirgamestudio.dk 
 
-I did the:
+++ I did the:
 * HTML
 * CSS
 * PHP
 * JavaScript
 
-I did not do the:  
+-- I did not do the:  
 
 * Graphical assets
 * Text  
