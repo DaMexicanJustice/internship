@@ -1,7 +1,7 @@
 # internship
 
 ## Company
-![alt text](https://github.com/damexicanjustice/internship/Fenrir_Logo_blue.png "Logo")
+![](Fenrir_Logo_blue.png)
 Fenrir Game Studio  
 http://fenrirgamestudio.dk  
 Naverland 2, 2600 Glostrup, Denmark  
