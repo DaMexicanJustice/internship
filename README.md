@@ -63,6 +63,7 @@ Very little involvement. The sign-up page for new users is a HTML document, so I
 Checkout the result here: http://veu-spillet.dk/Invitation/index.html
 ## Learning Outcome
 Let's see how well the things I worked with fits into the boxes: web, Unity, agile and insight:  
+
 ![](learning_objectives.png)
 
 ## Conclusion
@@ -73,4 +74,4 @@ public int CalculateSatisfaction(Internship company) {
 Company fenrirGameStudio = new Company("Fenrir Game Studio");
 int satisfaction = CalculateSatisfaction(fenrirGameStudio);
 ```
-![](screnshot.png)
+![](screenshot.PNG)
