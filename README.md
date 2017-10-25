@@ -64,3 +64,10 @@ Checkout the result here: http://veu-spillet.dk/Invitation/index.html
 ## Learning Outcome
 Let's see how well the things I worked with fits into the boxes: web, Unity, agile and insight:  
 ![](learning_objectives.PNG)
+
+## Conclusion
+´´´
+public int CalculateSatisfaction(Internship FenrirGameStudio) {
+   return Intern.instance.GetSatisfactionByCompany(FenrirGameStudio);
+}
+´´´
