@@ -69,10 +69,10 @@ Let's see how well the things I worked with fits into the boxes: web, Unity, agi
 
 ## Conclusion
 ```ruby
-public int CalculateSatisfaction(Internship company) {
-   return Intern.instance.GetSatisfactionByCompany(company);
+public int CalculateSatisfaction(Internship atCompany) {
+   return Intern.instance.GetSatisfactionByCompany(atCompany);
 }
-Company fenrirGameStudio = new Company("Fenrir Game Studio");
-int satisfaction = CalculateSatisfaction(fenrirGameStudio);
+Internship atFenrirGameStudio = new Internship("Fenrir Game Studio", 2017);
+int satisfaction = CalculateSatisfaction(atFenrirGameStudio);
 ```
 ![](screenshot.PNG)
