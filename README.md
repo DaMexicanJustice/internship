@@ -62,3 +62,5 @@ Because of a NDA I am not allowed to specify details about this project, suffice
 Very little involvement. The sign-up page for new users is a HTML document, so I helped style that.  
 Checkout the result here: http://veu-spillet.dk/Invitation/index.html
 ## Learning Outcome
+Let's see how well the things I worked with fits into the boxes: web, Unity, agile and insight:  
+![](learning_objectives.PNG)
